@@ -10,13 +10,17 @@ body{
 }
 nav{
 	background: blueviolet;
-	height: 50px;
+	height: 100px;
 	width: 100%;
+	/* display: flex; */
+	/* justify-content: space-between; */
+	
+
 }
 label.logo{
-	color: white;
+	color: white ;
 	font-size: 30px;
-	line-height: 80px;
+	line-height: 95px;
 	padding: 0 100px;
 	font-weight: bolder;
 }
@@ -27,7 +31,9 @@ nav ul{
 nav ul li{
 	display: inline-block;
 	line-height: 80px;
-	margin: 0 7px;
+	margin-top: 10px;
+
+	
 }
 nav ul li a{
 	color: white;
