@@ -9,7 +9,7 @@ body{
 	margin: 0;
 	padding: 0;
 	font-family: monospace;
-	background-image: url(/new.jpg);
+	background-image: url(/images/new.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
